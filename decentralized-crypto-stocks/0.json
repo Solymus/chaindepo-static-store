@@ -1,0 +1,9 @@
+{
+	"name": "Test Asset",
+	"description": "ChainDepo Test Asset #0",
+	"decimals": 0,
+	"properties": {
+		"listing": "CHAINDEPO",
+    "symbol": "FFFF"
+	}
+}
