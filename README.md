@@ -1,0 +1,1 @@
+# chaindepo-static-store
